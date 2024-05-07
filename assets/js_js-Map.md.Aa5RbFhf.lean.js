@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.CzJgWsJ8.js";const F=JSON.parse('{"title":"Map","description":"","frontmatter":{},"headers":[],"relativePath":"js/js-Map.md","filePath":"js/js-Map.md"}'),h={name:"js/js-Map.md"},k=n("",2),l=[k];function p(t,E,e,r,g,d){return a(),i("div",null,l)}const o=s(h,[["render",p]]);export{F as __pageData,o as default};

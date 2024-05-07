@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.CzJgWsJ8.js";const o=JSON.parse('{"title":"symbol","description":"","frontmatter":{},"headers":[],"relativePath":"js/js-symbol.md","filePath":"js/js-symbol.md"}'),l={name:"js/js-symbol.md"},h=n("",3),k=[h];function p(t,E,e,r,y,g){return a(),i("div",null,k)}const F=s(l,[["render",p]]);export{o as __pageData,F as default};

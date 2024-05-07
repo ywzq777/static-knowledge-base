@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.CzJgWsJ8.js";const F=JSON.parse('{"title":"for in","description":"","frontmatter":{},"headers":[],"relativePath":"js/js-for-in.md","filePath":"js/js-for-in.md"}'),h={name:"js/js-for-in.md"},k=n("",2),l=[k];function p(t,E,e,r,g,y){return a(),i("div",null,l)}const o=s(h,[["render",p]]);export{F as __pageData,o as default};
